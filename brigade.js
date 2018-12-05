@@ -122,7 +122,7 @@ function kubeJobRunner (config, k) {
 
     k.tasks = [
 
-        `kubectl set image deployment/heroes-web-deploy heroes-web-cntnr=mcgovern-heroes.azurecr.io/azureworkshop/rating-web:${config.get("imageTag")}`
+        `kubectl set image deployment/heroes-web-deploy heroes-web-cntnr=mcgovernregistry.azurecr.io/azureworkshop/rating-web:${config.get("imageTag")}`
 
     ]
 
