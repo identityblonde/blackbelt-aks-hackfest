@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Identity Blonde says hello!!
+        Identity Blonde says hola!
       </div>
       <div class="col-lg-6">
       </div>
