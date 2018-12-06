@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Erin McGovern aka Identity Blonde!!!
+        Identity Blonde says hello!!
       </div>
       <div class="col-lg-6">
       </div>
